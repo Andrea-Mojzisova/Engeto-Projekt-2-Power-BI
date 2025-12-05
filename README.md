@@ -6,6 +6,3 @@ Analýza - Největší producenti vína na světě dle zemí v 2018-2022
 - součástí analýzy jsou i otázky, na které grafy dávají odpověď. Jsou to často velmi zajímavé věci, které lze vyčíst z grafů. Trh s vínem je logický, ale v ČR povědomí o něm není až tak velké. Proto by tato analýza mohla být zajímavá pro širší publikum a je svým tématem neutrální. Netýká se veřejných zakázek, či šnečího tempa digitalizace ČR atd.
 
 
-V Projektu potřebuji poradit s následujícím:
-- postup, jak mohu změnit barvy čar  ve spojnicovém grafu. Neumím to identifikovat, kde to jde.
-- stránka "porovnání země" - slicer se zeměmi obsahuje kromě jednotlivých zemí i volbu jako země - country. Nevím, jak se toho zbavit. V jiných slicerech tohoto typu se mi to neobjevuje - např.stránka "porovnání země č.2".
